@@ -1,9 +1,4 @@
-## 📸 Preview
-
-<p align="center">
-  <img src="header.png" alt="Portfolio Screenshot" width="750" />
-</p>
-
+[![header](header.png)]
 <p align="center">
   🔗 <b>Live Site:</b> <a href="https://ashutosh-terminal.vercel.app/" target="_blank">Portfolio Link</a>
 </p>
